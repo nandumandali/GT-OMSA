@@ -1,13 +1,13 @@
 # ISYE-6501-Intro-to-Analytics-Modeling
 
-ISYE 6501 is 1 of 3 core courses in Fall 2017 semester of Georgia Tech's Masters in Analytics program.
+#ISYE 6501 is 1 of 3 core courses in Fall 2017 semester of Georgia Tech's Masters in Analytics program.
 This course is an	introduction	to	important	and	commonly	used	models	in	Analytics,	as	well	as	aspects	of	the modeling	process. The course goes over the mathematical 
 and intuitive idea behind analytic models, their application in R, and case study approaches in model selection.
 
-This repo contains the homework assignments associated with the course.
+#This repo contains the homework assignments associated with the course.
 
-Week 1 - Classification
-Week 2 - Validating, Clustering
+#Week 1 - Classification
+#Week 2 - Validating, Clustering
 Week 3 - Basic Data Prep & Change Detection
 Week 4 - Time Series Models
 Week 5 - Basic Regression
