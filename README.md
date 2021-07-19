@@ -15,12 +15,8 @@ This repo contains the homework assignments associated with the course.
 *  Week 6 - Adv Data Prep & PCA  
 *  Week 7 - Adv Regression & Tree-based Models  
 *  Week 8 - Variable Selection  
-   Week 9 - Design of Experiments, Probability-based Models
-
-   Week 10 - Missing Data
-
-   Week 11 - Optimization
-
-   Week 12 - Advanced Models
-
-   Case Study
+*  Week 9 - Design of Experiments, Probability-based Models  
+*  Week 10 - Missing Data  
+*  Week 11 - Optimization    
+*  Week 12 - Advanced Models  
+*  Case Study
