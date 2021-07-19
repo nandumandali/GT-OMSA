@@ -7,28 +7,20 @@ and intuitive idea behind analytic models, their application in R, and case stud
 
 This repo contains the homework assignments associated with the course.
 
-Week 1 - Classification
+*  Week 1 - Classification  
+*  Week 2 - Validating, Clustering
+*  Week 3 - Basic Data Prep & Change Detection  
+*  Week 4 - Time Series Models  
+*  Week 5 - Basic Regression
+*  Week 6 - Adv Data Prep & PCA  
+*  Week 7 - Adv Regression & Tree-based Models  
+*  Week 8 - Variable Selection  
+   Week 9 - Design of Experiments, Probability-based Models
 
-Week 2 - Validating, Clustering
+   Week 10 - Missing Data
 
-Week 3 - Basic Data Prep & Change Detection
+   Week 11 - Optimization
 
-Week 4 - Time Series Models
+   Week 12 - Advanced Models
 
-Week 5 - Basic Regression
-
-Week 6 - Adv Data Prep & PCA
-
-Week 7 - Adv Regression & Tree-based Models
-
-Week 8 - Variable Selection
-
-Week 9 - Design of Experiments, Probability-based Models
-
-Week 10 - Missing Data
-
-Week 11 - Optimization
-
-Week 12 - Advanced Models
-
-Case Study
+   Case Study
